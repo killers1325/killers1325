@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=154DF7FF&size=30&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </p>
 <img align="right" width=250px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpmcmNzNzNoaXdpMjNvd2p2NnVxdGxwZWk2cmVrOWd1eXk0ZDh3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-right: 20px;"/>
-<h3>"About me</h3>
+<h3>About me</h3>
 
-I am a software engineering student at the University of Applied Sciences(UPC).
+I am a software engineering student at the Peruvian University of Applied Sciences(UPC).
 
 - 🪴 I’m currently learning ...
   - HTML5
